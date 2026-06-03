@@ -1,7 +1,7 @@
 # PizzaProgramSeries
 Getcha pizza at Pizazo's Pizza!
 
-These are python scripts that let you go through the PIZZA PROGRAM, a series I always make every year (IDK why, but I'll do monthly if someone says so)
+These are python scripts that let you go through the **PIZZA PROGRAM**, a series I always make every year (IDK why, but I'll do monthly if someone says so)
 
 That's pretty much it.
 
